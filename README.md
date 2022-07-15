@@ -2,7 +2,7 @@
  Project developed with Html5 , CSS3 & JavaScript
 
 ## Website Clone Nike of Products
-It is a clone Nike of products site with some features included to have more user interaction.
+It is a clone Nike of products with effect glassmorphism site with some features included to have more user interaction.
 
 
 ## Technology 
